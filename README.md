@@ -1,1 +1,3 @@
-# SIBI_AI_Detetction_CNN_2
+# bisindo_sign_language_recongnition_using_deep_learning
+
+On progress
